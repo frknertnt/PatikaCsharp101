@@ -11,7 +11,7 @@
         Console.WriteLine($"Age: {student.Age}");
         Console.WriteLine($"Student ID: {student.StudentId}");
 
-        // Bilgileri yazdırmak için metodu çağırabiliriz.
+        // Call print method.
         student.PrintInfo();
     }
 }
