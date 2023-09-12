@@ -2,7 +2,7 @@
 {
     static void Main(string[] args)
     {
-        // Student sınıfından bir nesne oluşturalım
+        
         Student student = new Student("Alice Johnson", 22, "123456");
 
         // Direct access to private fields of the Student class is denied,
